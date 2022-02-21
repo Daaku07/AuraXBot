@@ -28,7 +28,7 @@
 
 <h1 align="center">TO HOST  A U R A X B O T LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/AuraXNetwork/AuraXUserbot">⚡ A U R A X U S E R B O T  ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/Daaku07/AuraXUserbot">⚡ A U R A X U S E R B O T  ⚡</a></h2>
 
 ## Mandatory Vars
 
